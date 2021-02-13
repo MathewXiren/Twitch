@@ -1,0 +1,7 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+
+BackEnd/jupiter/target/classes/config.properties
+BackEnd/jupiter/target/jupiter-1.0-SNAPSHOT/
+BackEnd/jupiter/target/jupiter-pool.war
+BackEnd/jupiter/src/main/resources/config.properties
