@@ -1,0 +1,3 @@
+[submodule "Front/twitch-app"]
+	path = Front/twitch-app
+	url = git@github.com:MathewXiren/twitch-app.git
