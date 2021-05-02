@@ -6,15 +6,15 @@ This is a full-stack web application that was used to search and recommend Twitc
 
 Popular content may not be displayed due to the expiration of the Twitch token. 
 
-### Popolar page
+### Popolar content
 ![Home](./img/popular.png)
 
 ### SignUp page
 ![SignUp](./img/register.png)
 
-### Recommand page
+### Recommandation content
 ![Product](./img/recommand.png)
 
-### Favorite page
+### Favorite content
 ![Home](./img/favorite.png)
 
